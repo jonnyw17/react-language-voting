@@ -1,0 +1,16 @@
+.angular-label,
+.react-label,
+.vuejs-label {
+  color: #fff;
+  background-color: #343a40;
+  width: 100%;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 30px;
+  padding: 10px 10px 10px 5px;
+}
+
+.results-container {
+  width: 60vw;
+  margin: 0 auto
+}
